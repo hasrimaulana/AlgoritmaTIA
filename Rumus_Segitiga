@@ -1,0 +1,10 @@
+public class RumusSegitiga {
+    public static void main(String[] argv) {
+        System.out.println("Menghitung Luas Segitiga");
+        int Luas,Tinggi,Alas;
+                Alas= 20;
+                Tinggi= 35;
+                Luas= Alas/2*Tinggi;
+        System.out.println(Luas);
+    }
+}
